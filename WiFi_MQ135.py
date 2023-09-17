@@ -3,7 +3,7 @@ import bluetooth
 import time
 import http.server
 
-host_name = '192.168.0.12'  # IP Address of Raspberry Pi
+host_name = '192.168.0.12'  # Dirección IP del Raspberry
 host_port = 8000
 
 # Configurar el modo de los pines
