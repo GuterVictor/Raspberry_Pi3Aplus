@@ -1,7 +1,7 @@
 import RPi.GPIO as GPIO
 import http.server
 
-host_name = '192.168.0.12'  # IP Address of Raspberry Pi
+host_name = '192.168.0.12'  # Dirección IP del Raspberry
 host_port = 8000
 
 
