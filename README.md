@@ -1,3 +1,3 @@
 # Raspberry_Pi3Aplus
-Este espacio esta dedicado a horas perdidas encontrando la solución de comunicación entre la raspberry y la app Serial Bluetooth Terminal. Para los sensores MQ135 y MQ2, donde se enviaran lecturas digitales y al parecer también análogicas estas enviadas por medio de bluetooth y Wi-Fi.
-Serie de pequeños programas para enviar datos del raspberry pi 3 A+ a la App Serial Bluetooth Terminal, usando los sensores MQ135 y MQ2. Y una pequeña guia de instalación y configuración, todos los creditos de esa guia se los lleva un chico indio que habla muy raro en ingles (canal de YouTube: Rahul Jadhav).
+Este espacio esta dedicado a horas perdidas encontrando la solución de comunicación entre la raspberry y la app Serial Bluetooth Terminal. Para los sensores MQ135 y proximamente MQ2, donde se enviaran lecturas digitales y al parecer también análogicas (en un futuro) estas enviadas por medio de bluetooth y Wi-Fi.
+Tambien encontrarás una pequeña guia de instalación y configuración. Todos los creditos de esa guia se los lleva un chico indio que habla muy raro en ingles (canal de YouTube: Rahul Jadhav).
